@@ -40,13 +40,7 @@
 <a href="https://github.com/anujjain5699">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujjain5699&show_icons=true&theme=lightk&line_height=27" alt="anuj's github stats"/>
 </a>
-<a href="https://github.com/anujjain5699/covid_19-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujjain5699&repo=covid_19-tracker&theme=light" />
 
-</a>
-<a href="https://github.com/anujjain5699/cpp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujjain5699&repo=cpp&theme=light" />
-</a>
 
 <div align="center">
 
