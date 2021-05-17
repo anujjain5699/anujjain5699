@@ -1,50 +1,23 @@
-## Hi I'm Anuj Jain! 👋
+<h1 align="center">Hi 👋, I'm Anuj jain</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujjain5699&label=Views&color=blue&style=plastic" alt="anuj" /> </p>
+- 🌱 I’m currently learning **Flutter,Django**
 
-<a href="https://linkedin.com/in/anuj5699jain">
-  <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 👨‍💻 All of my projects are available at [https://github.com/anujjain5699](https://github.com/anujjain5699)
 
-<a href="https://github.com/anujain5699">
-  <img align="left" alt="anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 📫 How to reach me **anujjain5699@gmail.com**
 
-<br/>
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anuj5699jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anuj5699jain" height="30" width="40" /></a>
+<a href="https://instagram.com/anujj5699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="anujj5699" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anujjain5699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="anujjain5699" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujjain5699&show_icons=true&locale=en&layout=compact" alt="anujjain5699" /></p>
 
-- 🌱 I’m currently learning more about Flutter,python.
-- 🤔 I’m looking for help in learning flutter.
-- 📫 How to reach me: [Instagram - @anujj5699](https://www.instagram.com/anujj5699/)
-
-
-[![Linkedin: anuj5699jain](https://img.shields.io/badge/-anuj5699jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj5699jain/)](https://www.linkedin.com/in/anuj5699jain/)
-[![GitHub anujjain5699](https://img.shields.io/github/followers/anujjain5699?label=follow&style=social)](https://github.com/anujjain5699)
-
-
- **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>    
-<br/>
-
-<a href="https://github.com/anujjain5699">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujjain5699&theme=light&hide_langs_below=1" />
-</a>
-<t/>
-<a href="https://github.com/anujjain5699">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujjain5699&show_icons=true&theme=lightk&line_height=27" alt="anuj's github stats"/>
-</a>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujjain5699&show_icons=true&locale=en" alt="anujjain5699" /></p>
 
