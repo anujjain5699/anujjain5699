@@ -6,6 +6,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/anujjain5699](https://github.com/anujjain5699)
 
 - 📫 How to reach me **anujjain5699@gmail.com**
+![](https://activity-graph.herokuapp.com/graph?username=anujjain5699&theme=react-dark&hide_border=true&area=true)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"
@@ -27,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujjain5699&show_icons=true&locale=en&layout=compact" alt="anujjain5699" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujjain5699&show_icons=true&locale=en" alt="anujjain5699" /></p>
-
