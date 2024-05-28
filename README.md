@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj jain</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **.Net, Angular14, Azure**          
+- 🌱 I’m currently learning **.Net, Angular14, AWS**          
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujjain5699](https://github.com/anujjain5699)
 
